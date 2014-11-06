@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-The mustached moose got hit by a car.
+A glorious mustached moose was pummled by the fast moving truck.
